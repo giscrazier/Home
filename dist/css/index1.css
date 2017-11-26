@@ -286,7 +286,7 @@ h1 {
 .page1 .m-driver {
 	width: 740px;
 	height: 435px;
-	background: url(../img/device-main.jpg) 50% no-repeat;
+	background: url(../dist/img/device-main.jpg) 50% no-repeat;
 	background-size: 100% auto;
 	margin: 40px auto 0 auto;
 	position: relative
